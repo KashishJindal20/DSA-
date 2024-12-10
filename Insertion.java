@@ -22,3 +22,5 @@ public class Insertion {
         System.out.println(Arrays.toString(newArr));
     }
 }
+//Time Complexity :O(N)
+

@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 public class Deletion {
   public static void  main(String[] args){
-        int []arr = {10,20,30,40,50,60};
-        int index = 2;
+        int []arr = {10,20,30,35,40,50};
+        int index = 3;
         int n = arr.length;
 
         int newArr[] = new int[n-1];
